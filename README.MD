@@ -23,7 +23,7 @@ Golang 版的 [OpenBmclAPI](https://github.com/bangbang93/openbmclapi)
 
 ## FAQ
 
-Q: 支持`.env`文件吗?  
+Q: 支持 `.env` 文件吗?  
 A: 不支持, Go-OpenBmclAPI 使用 yaml 配置文件, 该文件应位于程序的运行目录. 初次运行本程序时会自动创建该配置文件
 
 Q: 没有适合我的平台的程序怎么办?  
